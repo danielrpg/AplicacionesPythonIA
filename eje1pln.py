@@ -1,6 +1,12 @@
 # pip install -U textblob
 # python -m textblob.download_corpora
 
+# estos son los otras librerias de para NLP 
+# https://www.nltk.org/install.html
+# https://spacy.io/usage
+# https://pypi.org/project/textblob/
+
+
 from textblob import TextBlob
 
 texto = """
