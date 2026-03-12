@@ -10,6 +10,7 @@ palabras = pln("Presidente Paz propone bloque de seis naciones para potenciar el
 for palabra in palabras.ents:
     print(palabra.text, palabra.label_)
 
-for palabra in palabras.ents:
+# analisis gramatical
+for palabra in palabras:
     print(palabra.text, palabra.pos_)
 
