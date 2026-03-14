@@ -25,3 +25,5 @@ print(tokenizar)
 print(oraciones)
 print(palabras_vacias)
 print(resultadoPalabrasVacias)
+
+# HABLAR - HABLANDO - HABLO - HABLADO =>  el modelo crea 4 diferentes tipos de entrenamiento
